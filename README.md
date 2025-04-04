@@ -2,10 +2,7 @@
 
 MARX is a Conversational Artificial Intelligence designed to engage with users in a dynamic and immersive way. More than just an AI, Whether you seek a mentor, a friend, or simply a voice that understands you, MARX adapts to your needs, making every interaction feel real, dynamic, and uniquely personal.
 
-> a demo of the App
-
-<img src="demo/demovideo.gif" width="800px" alt="android icon"/>
-
+### [Demo Video](https://drive.google.com/file/d/1ZZj5wDVHNIsFAoG7AChXSKk_7GX7XcSE/view?usp=sharing)
 
 ### Features
 
